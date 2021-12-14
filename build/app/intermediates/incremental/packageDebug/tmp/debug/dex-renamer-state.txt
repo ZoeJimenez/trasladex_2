@@ -1,0 +1,4 @@
+#Mon Dec 13 17:18:46 CST 2021
+base.0=/home/zoejimenez/Documentos/7mo Semestre/proyecto_gps/TrasladEx/trasladex/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
