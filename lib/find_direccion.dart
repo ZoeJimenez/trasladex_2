@@ -4,7 +4,7 @@ import 'package:google_maps_webservice/directions.dart';
 
 class DirectionProvider extends ChangeNotifier {
   GoogleMapsDirections directionsApi =
-      GoogleMapsDirections(apiKey: "AIzaSyDGuGXub520hWyKxlripbegjO08LHHGXIg");
+      GoogleMapsDirections(apiKey: ">API KEY");
 
   Set<maps.Polyline> _route = Set();
 

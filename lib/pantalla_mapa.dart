@@ -106,7 +106,7 @@ class _EstadoMapa extends State<pantalla_mapa> {
     List<LatLng> polylineCoordinates = [];
 
     PolylineResult result = await polylinePoints.getRouteBetweenCoordinates(
-      "AIzaSyDGuGXub520hWyKxlripbegjO08LHHGXIg",
+      ">API KEY",
       PointLatLng(fromPoint.latitude, fromPoint.longitude),
       PointLatLng(toPoint.latitude, toPoint.longitude),
       travelMode: TravelMode.driving,
